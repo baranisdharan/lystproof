@@ -1,0 +1,91 @@
+.container1 {
+  width: 30%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+#first {
+  gap: 20px;
+  display: flex;
+  margin-top: 100px;
+}
+
+#box {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 15px;
+  color: #334;
+  top: 700px;
+  left: 1250px;
+  width: 300px;
+  height: 30px;
+}
+
+#register-btn {
+  color: white;
+  top: 710px;
+  left: 1249px;
+  width: 330px;
+  height: 40px;
+  background: #6f36bc 0% 0% no-repeat padding-box;
+  border-radius: 4px;
+  opacity: 1;
+}
+
+#input-style {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+label {
+  gap: 2px;
+  color: var(--primary-text-color);
+  text-align: left;
+  font: normal normal medium 14px/17px Proxima Nova;
+  letter-spacing: 0px;
+  color: #595a62;
+  opacity: 1;
+}
+
+
+h4 {
+  color: var(--primary-text-color);
+  text-align: left;
+  font: normal normal 600 18px/24px Proxima Nova;
+  letter-spacing: 0px;
+  color: #595a62;
+  opacity: 1;
+}
+
+#end {
+  gap: 20px;
+  display: flex;
+}
+h5 {
+  margin: auto;
+  text-align: left;
+  font: normal normal medium 14px/17px Proxima Nova;
+  letter-spacing: 0px;
+  color: #495057;
+  opacity: 1;
+}
+button {
+  border-radius: 50%;
+  
+  border: none;
+  cursor: pointer;
+  
+}
+
+
+#last {
+  text-align: left;
+  font: normal normal normal 14px/17px Proxima Nova;
+  letter-spacing: 0px;
+  color: #74788d;
+  opacity: 1;
+}
+
